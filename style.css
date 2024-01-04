@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 22px;
+}
+
+.object{
+    width: 50%;
+    font-size: 22px;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
